@@ -1,0 +1,7 @@
+[id*='region_']{
+	cursor:pointer; 
+}
+
+#infosRegion{
+	font-size: 20px;
+}
